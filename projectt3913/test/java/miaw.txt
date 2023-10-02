@@ -1,0 +1,3 @@
+"assertEquals", "assertFalse", "assertTrue",
+                "assertNotNull", "assertNull", "assertSame",
+                "assertNotSame", "assertArrayEquals", "assertThrows", "fail"
